@@ -2,8 +2,8 @@
 
 ## Intern Details
 
-**Name:** Hamza Saeed
-**Domain:** Web Development
+**Name:** Hamza Saeed <br>
+**Domain:** Web Development <br>
 **Week:** Week 1
 
 ## Task Description
